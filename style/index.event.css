@@ -72,7 +72,7 @@
 
 .button__item:hover {
   background-color: var(--dark-green-bottom);
-  transition: 0.4s;
+  transition: 0.5s;
 }
 
 .arrows__item {
